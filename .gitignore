@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+cx_sentinel.db
+chroma_store/
+.venv/
+venv/
